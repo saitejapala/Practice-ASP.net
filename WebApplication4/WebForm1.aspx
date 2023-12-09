@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click" />
             <br />
-            <asp:Label ID="Label3" runat="server" Text="Output"></asp:Label>
+            <asp:Label ID="Label3" runat="server" Text="Output"></asp:Label> 
         </div>
     </form>
 </body>
