@@ -24,6 +24,7 @@ namespace WebApplication3
                 Label3.Text = "Welcome " + name;
                 TextBox1.Text=string.Empty;
                 TextBox1.Focus();
+                Response.Redirect("WebForm2.aspx");
             }
             else
             {
