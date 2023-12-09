@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Welcome to the 2<sup>nd</sup>Page
+            Welcome to the 2<sup>nd</sup> Page
         </div>
     </form>
 </body>
